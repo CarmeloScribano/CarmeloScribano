@@ -2,7 +2,7 @@
 
 I am a full-time programmer analyst for the Government of Canada
 <br>
-I am also persuing my Bachelors of Science in Computer Science at Concordia University.
+I am also pursuing my Bachelors of Science in Computer Science at Concordia University.
 
 Work Experience:
 - Programmer analyst at the Government of Canada - Full-stack web development, database management and UI testing

@@ -13,7 +13,7 @@ Interests:
 - UI/UX design 🎨
 - Guitar and anything music related 🎸
 
-💬 Reach me by email or LinkedIn: carm.scrib@gmail.com | https://www.linkedin.com/in/carmeloscribano 
+💬 Reach me by email or LinkedIn: carm.scrib@gmail.com | www.linkedin.com/in/carmeloscribano 
 </br>
 🖥️ Visit my website: www.carmeloscribano.com
 </br>

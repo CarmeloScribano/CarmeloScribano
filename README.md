@@ -16,3 +16,5 @@ Interests:
 💬 Reach me by email or LinkedIn: carm.scrib@gmail.com | https://www.linkedin.com/in/carmeloscribano 
 </br>
 🖥️ Visit my website: www.carmeloscribano.com
+</br>
+:triangular_flag_on_post: Go take a look at my previous Hackathon projects: www.devpost.com/CarmeloScribano

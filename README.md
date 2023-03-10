@@ -2,16 +2,16 @@
 
 I am a full-time programmer analyst for the Government of Canada
 <br>
-I am also pursuing my Bachelors of Science in Computer Science at Concordia University.
+I am also pursuing my Bachelors of Science in Computer Science at Western Governors University.
 
 Work Experience:
 - Programmer analyst at the Government of Canada - Full-stack web development, database management and UI testing
 - Co-founder and COO at SDR Web Services - Full-stack web development, server management and entrepreneurship
 
 Interests:
+- Machine Learning :brain:
 - Web development 💻
 - UI/UX design 🎨
-- Guitar and anything music related 🎸
 
 💬 Reach me by email or LinkedIn: carm.scrib@gmail.com | www.linkedin.com/in/carmeloscribano 
 </br>

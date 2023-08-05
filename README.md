@@ -1,20 +1,20 @@
-### Hi there :wave: I'm Carmelo
+### Hi there 👋 I'm Carmelo
 
-I am a full-time programmer analyst for the Government of Canada
+I am a full-time software developer for the Government of Canada
 <br>
-I am also pursuing my Bachelors of Science in Computer Science at Western Governors University.
+I am also pursuing my Masters of Science in Cybersecurity at Georgia Institute of Technology.
 
 Work Experience:
-- Programmer analyst at the Government of Canada - Full-stack web development, database management and UI testing
-- Co-founder and COO at SDR Web Services - Full-stack web development, server management and entrepreneurship
+- Software Developer at the Government of Canada - Full-stack web development, security management and database maintenance
+- Co-founder and COO at SDR Web Services - Full-stack web development, security management and entrepreneurship
 
 Interests:
-- Machine Learning :brain:
-- Web development 💻
-- UI/UX design 🎨
+- Cybersecurity 🔒
+- Web Development 💻
+- Cloud Computing ☁️
 
 💬 Reach me by email or LinkedIn: carm.scrib@gmail.com | www.linkedin.com/in/carmeloscribano 
 </br>
 🖥️ Visit my website: www.carmeloscribano.com
 </br>
-:triangular_flag_on_post: Go take a look at my previous Hackathon projects: www.devpost.com/CarmeloScribano
+🚩 Go take a look at my previous Hackathon projects: www.devpost.com/CarmeloScribano

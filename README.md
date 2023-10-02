@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm Carmelo
 
-I am a full-time software developer for the Government of Canada
-<br>
-I am also pursuing my Masters of Science in Cybersecurity at Georgia Institute of Technology.
+I am a full-time software developer for the Government of Canada.
 
 Work Experience:
 - Software Developer at the Government of Canada - Full-stack web development, security management and database maintenance

@@ -4,7 +4,7 @@ I am a full-time software developer for the Government of Canada.
 
 Work Experience:
 - Software Developer at the Government of Canada - Full-stack web development, security management and database maintenance
-- Co-founder and COO at SDR Web Services - Full-stack web development, security management and entrepreneurship
+- Security Engineer at SDR Web Services - Full-stack web development, security management and cloud architecture
 
 Interests:
 - Cybersecurity 🔒
